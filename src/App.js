@@ -15,6 +15,7 @@ function App() {
         </div>
         <div>
           <img src={wendy2}></img>
+          <img src={wendy3}></img>
         </div>
         <div>
           <span>(805) 660 9376</span>
