@@ -23,8 +23,8 @@ function App() {
       </div>
       <header className="App-header">
         <img src={wendy} className="App-logo" alt="logo" />
-        <p>
-          I <code>am on</code> the left!
+        <p id="bio">
+          I am on the left!
         </p>
         <a
           className="App-link"
