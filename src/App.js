@@ -13,9 +13,9 @@ function App() {
         <div>
           <h1><span id="wendy">Wendy Jann</span></h1>
         </div>
-        <div>
-          <img src={wendy2}></img>
-          <img src={wendy3}></img>
+        <div id="imgs">
+          <img src={wendy2} id="wendy2"></img>
+          <img src={wendy3} id="wendy3"></img>
         </div>
         <div id="number">
           <span>(805) 660 9376</span>
