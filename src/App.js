@@ -15,17 +15,11 @@ function App() {
         </div>
         <div id="imgs">
           <img src={wendy2} id="wendy2"></img>
-          <img src={wendy3} id="wendy3"></img>
         </div>
         <div id="number">
           <span>(805) 660 9376</span>
         </div>
       </div>
-      <header className="App-header">
-        <img src={wendy} className="App-logo" alt="logo" />
-        <p id="bio">
-          I am on the left!
-        </p>
         <a
           className="App-link"
           href="https://maxjann.com"
@@ -34,7 +28,6 @@ function App() {
         >
           Jann Software
         </a>
-      </header>
     </div>
   );
 }
