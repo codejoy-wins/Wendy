@@ -39,7 +39,16 @@ p{
   height: 40vmin;
   pointer-events: none;
 }
-
+#jann{
+  font-size:3vw;
+  text-decoration: none;
+}
+a{
+  text-decoration:none;
+}
+a:hover{
+  color: red;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

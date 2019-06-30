@@ -28,7 +28,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Jann Software
+          <span id="jann">Jann Software</span>
         </a>
     </div>
   );
