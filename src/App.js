@@ -20,6 +20,8 @@ function App() {
           <span>(805) 660 9376</span>
         </div>
       </div>
+        <img src={wendy} id="wendy4"></img>
+        <p>I am on the left!</p>
         <a
           className="App-link"
           href="https://maxjann.com"
