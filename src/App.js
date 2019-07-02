@@ -17,7 +17,7 @@ function App() {
         </div>
         <h1><span id="wendy">Wendy Jann</span></h1>
         <div id="number">
-          <span>(805) 660 9376</span>
+          <span>wendy1jann@gmail.com</span>
         </div>
       </div>
         <img src={wendy} id="wendy4"></img>
